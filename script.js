@@ -1,6 +1,5 @@
 // Handles user input and displays the piano scales
 
-//test
 // Coordinates for each of the 24 notes
 const noteX = [222, 243, 265, 286, 307, 350, 371, 393, 414, 436, 457, 479,
     521, 542, 564, 585, 607, 650, 671, 693, 714, 736, 757, 778];
