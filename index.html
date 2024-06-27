@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Piano Scales </title>
+        <link rel="stylesheet" href="style.css">
+        
+    </head>
+        <body>
+            <div id="Header">
+                <h1 id="Headerr">Piano Scales</h1>
+            </div>
+            <div id="Middle">
+                <p>Choose a root note and a scale type, then press "Show Scale"</p>
+            </div>
+            <div id="Image">
+                <canvas id="canvas" height="200" width="1600">Your browser does not support the canvas tag</canvas>
+            </div>
+            <div id="Roots" class="btn-group">
+                <button class="button-1" id="c">C</button>
+                <button class="button-1" id="c#">C#/Db</button>
+                <button class="button-1" id="d">D</button>
+                <button class="button-1" id="d#">D#/Eb</button>
+                <button class="button-1" id="e">E</button>
+                <button class="button-1" id="f">F</button>
+                <button class="button-1" id="f#">F#/Gb</button>
+                <button class="button-1" id="g">G</button>
+                <button class="button-1" id="g#">G#/Ab</button>
+                <button class="button-1" id="a">A</button>
+                <button class="button-1" id="a#">A#/Bb</button>
+                <button class="button-1" id="b">B</button>
+            </div>
+            <div id="Scales" class="btn-group">
+                <button id="major">Major</button>
+                <button id="minor">Minor</button>
+                <button id="majorPent">Major Pentatonic</button>
+                <button id="minorPent">Minor Pentatonic</button>
+                <button id="majorBlues">Major Blues</button>
+                <button id="minorBlues">Minor Blues</button>
+        
+            </div>
+            <div id="Show" class="btn-group">
+                <button id="show">Show Scale</button>
+                <button id="clear">Clear</button>
+            </div>
+        </body>
+        <script src="script.js"></script>
+</html>

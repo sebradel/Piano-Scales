@@ -1,0 +1,56 @@
+#Header {
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    width: fit-content;
+    padding: 0px;
+    background: '#88e7f5';
+}
+#Headerr {
+    background: '#88e7f5';
+    width: fit-content;
+    padding: 0px
+}
+
+
+#Image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    display: block;
+    
+}
+#Middle {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px;
+    width: fit-content;
+    margin: auto;
+}
+#Keys {
+    display: block;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    height: auto;
+}
+#Roots {
+    width: fit-content;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+#Scales {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: fit-content;
+    margin: auto;
+}
+#Show {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: fit-content;
+    margin: auto;
+    padding: 15px;
+    font-size: 75px;
+}
+
